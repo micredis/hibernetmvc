@@ -2,7 +2,8 @@
 A small and unassuming CRUD application (aka bookstore)
 
 The username & password to access db are 'root' (in both cases)
-<br>and can be changed by editing src/main/resources/<b>db.properties</b>
+and can be changed by editing
+<br>src/main/resources/<b>db.properties</b>
 
 To populate the database you may want to run the script:
 <br><b>script.sql</b>
